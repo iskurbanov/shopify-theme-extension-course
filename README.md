@@ -5,6 +5,10 @@ This is a template for building a Shopify Theme Extensin App using React + Tailw
 
 ## Getting Started
 
+Full Course:
+
+👉 [Shopify App - Theme Extension Course](https://www.buildnextshop.com/shopify-theme-extension-app)
+
 Here is an article on how to get started using this template: 
 
 👉 [Dev.to Article](https://dev.to/iskurbanov/shopify-app-theme-extension-with-react-tailwind-css-3n9e)
