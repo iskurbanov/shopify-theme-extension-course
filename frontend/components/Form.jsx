@@ -24,6 +24,10 @@ export default function Form() {
         body: JSON.stringify(formData)
       })
 
+      nameRef.current.value = ''
+      emailRef.current.value = ''
+      descriptionRef.current.value = ''
+  
       const data = await response.json()
       console.log(data)
       
